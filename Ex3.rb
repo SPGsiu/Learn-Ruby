@@ -21,3 +21,9 @@ puts "How about some more."
 puts "Is it greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
 puts "Is it less or equal? #{5 <= -2}"
+
+same = 15
+same2 = (3 + 12) || (5 * 3) && (30 / 2)
+
+print "(3 + 12) || (5 * 3) && (30 / 2) = #{(3 + 12) || (5 * 3) && (30 / 2)}"
+print " just #{same} and same2 here #{same2}"
