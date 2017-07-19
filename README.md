@@ -10,8 +10,10 @@
 
 5 - Ex5.rb - Using get method to produce different results based on user input
 
-6 - Ex6.rb - using 'if' statement to achieve similair results 
+6 - Ex6.rb - Using 'if' statement to achieve similair results 
 
 7 - Ex7.rb - Using array to achieve the same result
 
 8 - Ex8.rb - Using class to achieve the same result
+
+9 - Ex9.rb - Difference between '%q' and '%Q'
