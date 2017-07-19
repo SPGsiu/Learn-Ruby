@@ -25,3 +25,5 @@
 12 - Ex12.rb - using get.to_i created a guessing number mini game
 
 13 - Ex13.rb - Using ARGV with array
+
+14 - Ex14.rb - Difference between $stdin.gets and gets while using ARGV
