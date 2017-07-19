@@ -21,3 +21,5 @@
 10 - Ex10.rb - Difference between '' and "" but can just use '%q' and '%Q' instead
 
 11 - Ex11.rb - combing get method with loop 
+
+12 - Ex12.rb - using get.to_i created a guessing number mini game
