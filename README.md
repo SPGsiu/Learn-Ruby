@@ -23,3 +23,5 @@
 11 - Ex11.rb - combing get method with loop 
 
 12 - Ex12.rb - using get.to_i created a guessing number mini game
+
+13 - Ex13.rb - Using ARGV with array
