@@ -19,3 +19,5 @@
 9 - Ex9.rb - Difference between '%q' and '%Q'
 
 10 - Ex10.rb - Difference between '' and "" but can just use '%q' and '%Q' instead
+
+11 - Ex11.rb - combing get method with loop 
