@@ -13,3 +13,22 @@ puts formatter % {
   third: "But it didn't sing.",
   fourth: "So I said goodnight."
 }
+
+# using class to achieve the same result
+formatterC = Class.new do
+  def one
+    "This "
+  end
+  def two
+    "Will "
+  end
+  def three
+    "Be "
+  end
+  def four
+    "Cool "
+  end
+end
+
+form = formatterC.new
+print form.one + form.two + form.three + form.four
