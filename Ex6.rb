@@ -24,3 +24,20 @@ w = "This is the left side of..."
 e = "a string with a right side."
 #display both vairable together
 puts w + e
+
+# w gets overwritted
+puts w && e
+# Ruby will always choose w and discard e
+puts w || e
+# display first if and second else 
+if hilarious == false
+  hilarious = true
+  print "This is a joke rights? #{hilarious} "
+else
+  print "I shall never been seens? #{hilarious} "
+end
+if hilarious == false
+  print "This is a joke right? #{hilarious} "
+else
+  print "I shall never been seen? #{hilarious} "
+end
