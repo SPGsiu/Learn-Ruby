@@ -27,3 +27,5 @@
 13 - Ex13.rb - Using ARGV with array
 
 14 - Ex14.rb - Difference between $stdin.gets and gets while using ARGV
+
+15 - Ex15.rb & Ex15.txt - Unlimited file opener
