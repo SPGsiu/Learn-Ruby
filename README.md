@@ -17,3 +17,5 @@
 8 - Ex8.rb - Using class to achieve the same result
 
 9 - Ex9.rb - Difference between '%q' and '%Q'
+
+10 - Ex10.rb - Difference between '' and "" but can just use '%q' and '%Q' instead
