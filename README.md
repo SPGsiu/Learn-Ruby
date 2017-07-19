@@ -20,7 +20,7 @@
 
 10 - Ex10.rb - Difference between '' and "" but can just use '%q' and '%Q' instead
 
-11 - Ex11.rb - combing get method with loop 
+11 - Ex11.rb - combing get method with loop created a mini lock 
 
 12 - Ex12.rb - using get.to_i created a guessing number mini game
 
@@ -29,3 +29,5 @@
 14 - Ex14.rb - Difference between $stdin.gets and gets while using ARGV
 
 15 - Ex15.rb & Ex15.txt - Unlimited file opener
+
+16 - Ex16.rb & Ex16.txt - Open file after editing file
