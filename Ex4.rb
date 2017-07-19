@@ -14,3 +14,16 @@ puts "There will be #{cars_not_driven} empty cars today."
 puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
+
+#store stuff in vairable
+text = "i will just say what i need here"
+num = 90 / 0.5
+#display vairable values
+puts "Text = #{text}"
+puts "Number = #{num}"
+#Text disappear
+puts "#{text && num}"
+#Number disappear
+puts "#{num && text}"
+#both display
+puts "#{text} #{num}"
