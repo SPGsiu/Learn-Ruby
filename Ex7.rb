@@ -21,4 +21,8 @@ print end1 + end2 + end3 + end4 + end5 + end6
 #puts adds new line with the /n effect but only affects the next display
 puts end7 + end8 + end9 + end10 + end11 + end12
 print "affected "
-print "not affected"
+puts "not affected"
+
+#faster way of creating 12 new vairables
+arr = ['C','h','e','a','t','e','r']
+arr.each { |char| print char }
