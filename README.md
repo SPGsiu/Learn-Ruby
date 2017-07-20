@@ -35,3 +35,5 @@
 17 - Ex17.rb, Ex17.txt & Ex17copy.txt - Copy from A to B
 
 18 - Ex18.rb - defining local functions
+
+19 - Ex19.rb - using Random numbers inside functions
