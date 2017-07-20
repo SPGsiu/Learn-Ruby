@@ -41,3 +41,7 @@
 20 - Ex20.rb & Ex20.txt - Using until loop to loop through file line print 
 
 21 - Ex21.rb - Using case method random calling functions created a different guess number game
+
+Note - Ex22 & Ex23 is non coding and Ex24 is revisit on all previous Ex so will start from Ex25 instead
+
+22 - Ex25.rb
