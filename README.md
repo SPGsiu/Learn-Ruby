@@ -33,3 +33,5 @@
 16 - Ex16.rb & Ex16.txt - Open file after editing file
 
 17 - Ex17.rb, Ex17.txt & Ex17copy.txt - Copy from A to B
+
+18 - Ex18.rb - defining local functions
