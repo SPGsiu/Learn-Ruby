@@ -31,3 +31,5 @@
 15 - Ex15.rb & Ex15.txt - Unlimited file opener
 
 16 - Ex16.rb & Ex16.txt - Open file after editing file
+
+17 - Ex17.rb, Ex17.txt & Ex17copy.txt - Copy from A to B
