@@ -39,3 +39,5 @@
 19 - Ex19.rb - Using Random numbers inside functions
 
 20 - Ex20.rb & Ex20.txt - Using until loop to loop through file line print 
+
+21 - Ex21.rb - Using case method random calling functions created a different guess number game
