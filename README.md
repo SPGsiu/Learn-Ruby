@@ -34,6 +34,8 @@
 
 17 - Ex17.rb, Ex17.txt & Ex17copy.txt - Copy from A to B
 
-18 - Ex18.rb - defining local functions
+18 - Ex18.rb - Defining local functions
 
-19 - Ex19.rb - using Random numbers inside functions
+19 - Ex19.rb - Using Random numbers inside functions
+
+20 - Ex20.rb & Ex20.txt - Using until loop to loop through file line print 
