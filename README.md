@@ -44,3 +44,4 @@ Ex21.rb - Using case method random calling functions created a different guess n
 
 Note Ex22 to Ex34 has been covered in previous Extended Ex
 
+Ex35.rb - functions with if statements - user input based calling different part of the function
