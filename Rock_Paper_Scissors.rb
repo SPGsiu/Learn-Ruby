@@ -3,13 +3,13 @@ def convert (convert)
     case convert
   # when it is 0 it is Rock
     when 0
-      return "Rock"
+      "Rock"
   # when it is 1 it is Paper
     when 1
-      return "Paper"
+      "Paper"
   # when it is 2 it is Paper
     when 2
-      return "Scissors"
+      "Scissors"
     end
 end# convert end
 
@@ -25,12 +25,12 @@ def check(player_input)
         (player_input == 2 && computer_input == 3) ||
         (player_input == 3 && computer_input == 1)
     puts "#{feedback}\n You Lose 1 life taken from player"
-    return $p_win = $p_win - 1
+    $p_win = $p_win - 1
   elsif (player_input == 1 && computer_input == 3) ||
         (player_input == 2 && computer_input == 1) ||
         (player_input == 3 && computer_input == 2)
     puts "#{feedback}\n You Win 1 life taken from AI"
-    return $ai_win = $ai_win - 1
+    $ai_win =- 1
   else
     puts "Unknow Error occured"
   end# if end
